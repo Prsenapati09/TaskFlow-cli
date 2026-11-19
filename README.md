@@ -1,4 +1,4 @@
-# TaskFlow App
+# TaskFlow Cli App
 
 A command-line Todo application built with **Node.js**. It lets you create, view, update, complete, delete, and search tasks directly from your terminal. It also supports filtering and sorting tasks.
 
